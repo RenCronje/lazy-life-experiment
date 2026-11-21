@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "siteTitle": "The Lazy Life Experiment — Funded Creative Freedom",
+    "description": "A public research and tooling company testing whether removing financial survival pressure produces better creative work. Pre-registered, published, including the failures.",
+    "language": "en"
+  },
+  "brand": "The Lazy Life Experiment",
+  "theme": {
+    "paper": "#faf9f6",
+    "ink": "#171714",
+    "dark": "#10110f",
+    "onDark": "#fffefa",
+    "muted": "#77766f",
+    "accent": "#c7834e",
+    "lime": "#d1efb0",
+    "spectrum": "linear-gradient(110deg, #829b65 0%, #d3b45d 25%, #e28f53 50%, #c56b62 72%, #8c719e 100%)"
+  },
+  "nav": [
+    {
+      "label": "The Protocol",
+      "href": "#about"
+    },
+    {
+      "label": "The Model",
+      "href": "#business"
+    },
+    {
+      "label": "The Ledger",
+      "href": "#ledger"
+    },
+    {
+      "label": "Join",
+      "href": "#join"
+    }
+  ],
+  "hero": {
+    "eyebrow": "A Public Experiment in Funded Creative Freedom",
+    "heading": "Fund the freedom. Publish everything.",
+    "subtitle": "A public research company testing one question: does removing financial survival pressure produce better creative work? I run it on myself first — and publish the results, including the failures.",
+    "ctaLabel": "Watch the Experiment",
+    "downloadUrl": "#join",
+    "requirements": "Pre-registered protocol · Public ledger · Results published either way",
+    "scrollLabel": "Scroll to explore"
+  },
+  "featureIntro": {
+    "eyebrow": "THE HYPOTHESIS",
+    "title": "Financial pressure taxes creative work. We are testing what happens without it.",
+    "highlight": "taxes"
+  },
+  "experiment": {
+    "founder": {
+      "eyebrow": "About The Experimenter",
+      "title": "I am the first subject.",
+      "intro": "Fifteen years in marketing operations. Now running the experiment on myself, in public.",
+      "name": "Ren Cronje",
+      "role": "Founder · First Subject · Digital Marketing Specialist",
+      "background": "I have spent 15 years in digital marketing and technology across eCommerce, SaaS, and creative services, most recently leading marketing operations at PlainMail. I have founded two startups. The pattern I kept noticing: the best ideas arrived in the gaps, never in the crunch.",
+      "career": "Marketing Operations Manager at PlainMail (2021–Present)\nMarketing Strategy Director at Roehampton University (2018–2021)\nDigital Marketing Manager at Vistaprint (2015–2018)\nFounded two startups; campaigns for global brands",
+      "marketingSkills": "Growth Strategy\nPerformance Marketing\nContent Creation\nSEO & SEM\nSocial Media Management",
+      "businessSkills": "Startup Development\nMarket Research\nProject Management\nBusiness Strategy\nTeam Leadership",
+      "socialLinks": "LinkedIn Profile | https://www.linkedin.com/in/ren-cronje/\nInstagram Profile | https://www.instagram.com/rencronje/\nF6S Profile | https://www.f6s.com/member/rencronje",
+      "whyTitle": "Why me, and why in public",
+      "whyParagraphs": "I can build the platform, run the experiment, and tell the story — those are three different skills and this project needs all three in one person at the start.\n\nThe important commitment is the honest part. The stipend is capped and time-boxed. My working hours are logged like every other metric. If running this experiment produces a worse life than the job it replaced, the experiment has failed and I will publish that."
+    },
+    "summary": {
+      "eyebrow": "The Protocol",
+      "title": "Pre-registered. Falsifiable. Published either way.",
+      "intro": "These commitments are published before any results exist, so the outcome cannot be reframed afterwards. This is what separates research from a diary.",
+      "pillars": "Hypothesis | Removing financial survival pressure increases both the volume and the shipping rate of creative output.\nPrimary metric | Projects shipped per 90 days. Countable, objective, and hard to fudge.\nComparison group | 30 creators logging identical metrics without funding. Without this, a positive result cannot be interpreted.\nBaseline | My own 90 days before funding, reconstructed from existing records — a limitation, stated in advance.",
+      "quote": "Kill criteria, stated in advance: if after 90 funded days shipped-projects-per-90-days shows no improvement over baseline and no separation from the comparison group, the hypothesis is published as failed — in full, with the raw data."
+    },
+    "market": {
+      "eyebrow": "Who This Serves",
+      "title": "Three people pay for this. None of them are buying my rent.",
+      "intro": "The experiment is the proof. The tool and the protocol are what people actually buy.",
+      "trends": "Financial scarcity demonstrably consumes cognitive bandwidth, producing risk-aversion and short-term thinking.\nFunding people rather than ideas is a proven pattern: fellowships, residencies, and early accelerators all work this way.\nCompanies already pay for protected time — L&D budgets, innovation sprints, sabbatical benefits — but rarely measure what it produces.",
+      "opportunity": "The gap is not a shortage of creative people. It is the absence of a repeatable, measurable way to buy them time.",
+      "competitiveIntro": "Unlike accelerators that take equity, or residencies that select on prestige, this model:",
+      "advantages": "Sells no equity | No investment product, no revenue share, no returns. Subscriptions, gifts, and programme fees only.\nPublishes its failures | Kill criteria are stated before the experiment begins and null results are published in full.\nIs fully receipted | Every dollar in, every dollar out, every project to shipped or killed, in public.\nMeasures what it sells | The protocol exists because the measurement does. Sponsors buy the report, not the association.",
+      "audiences": "Creators | People who want to run the same experiment on themselves and want the protocol to do it.\nSponsors | Brands and foundations that already fund fellowships and want a novel piece of research attached.\nCompanies | Teams with L&D or innovation budgets looking for a structured innovation sabbatical with published outcomes.\nReaders | People who simply want to watch a genuinely falsifiable experiment run in the open."
+    },
+    "business": {
+      "eyebrow": "The Model",
+      "title": "Three engines. In the order they earn.",
+      "intro": "The story earns attention. The platform earns a little. The protocol, proven by the first two, earns the most.",
+      "pillars": "Audience | The experiment as serialised public content. Earns first, and makes everything else cheaper to sell.\nPlatform | Log, signal, track, and receipt ideas. Four modules, built only as the protocol needs them.\nProtocol | The documented method, delivered to cohorts and licensed to companies. Earns last, and most.\nConstraint | Stay small. A company whose thesis is that small is sufficient should not staff up to prove it.",
+      "platformTitle": "A worked example of the protocol",
+      "platformIntro": "The experiment generates the protocol. The protocol becomes a product a company can buy:",
+      "platformSteps": "A named cohort of 4–6 employees gets 8 weeks of protected time.\nEvery outcome is logged and measured against a baseline cohort.\nThe company receives an anonymised findings report it can point to internally.",
+      "platformClosing": "Sold against an existing L&D or innovation budget line — not as a novelty.",
+      "revenueTitle": "What people pay for",
+      "revenueStreams": "Membership | $5–15/month for the log, the data, and a vote on which ideas get funded next. No equity, no returns.\nUnderwriting | $250 to fund one specific idea to completion, credited in the log.\nSponsored cohorts | ~$40,000 per cohort of 5 fellows on a ~$30,000 programme cost. The published report is what makes the price defensible.\nB2B programmes | ~$20,000 per 8-week programme, four per year at maturity. Sold against existing training budgets."
+    },
+    "financials": {
+      "eyebrow": "The Ladder",
+      "title": "Start for under $500. Earn the right to raise.",
+      "intro": "Illustrative assumptions, not projections. Every figure is an input you can change — they exist to show the arithmetic.",
+      "phases": "Stage 0 · Prove it free (weeks 1–6) | 30 days, publish daily, ship one small thing per week. Cost: under $500. Gate to the next stage: 30 published days and 200 people on a list.\nStage 1 · Membership (months 2–9) | 150 members at ~$9 = ~$1,350/mo. Funds the experiment, not the lifestyle. Gated on 100+ paying members.\nStage 2 · First cohort (months 9–18) | 5 fellows × $6,000 = $30,000 programme cost, sold at $40,000. Gross margin $10,000.\nStage 3 · B2B (month 18+) | Four 8-week programmes a year at ~$20,000. The company stops depending on one person's story.",
+      "breakEven": "$116k / yr",
+      "breakEvenNote": "Illustrative combined revenue at maturity: ~$16k membership + ~$20k cohorts + ~$80k B2B, run by one operator plus contract help. Not a venture-scale outcome — deliberately. Ambition is better spent on depth than on a valuation story.",
+      "fundingTitle": "What Stage 0 actually needs",
+      "fundingIntro": "You need capital to quit, not to start. Stage 0 tests everything for less than a laptop:",
+      "fundingUses": "A place to publish | Under $50. The experiment is the marketing, so this is the whole spend.\nA mailing list | Free at this scale. Not a crowdfunding page — a list.\nA comparison group | Ten creators is enough to start, thirty enough to publish. Recruited from readers.\nA ledger habit | Costs nothing and establishes the single thing that differentiates the company.",
+      "exitTitle": "What happens if it fails",
+      "exitIntro": "This model is designed to fail cheaply and publicly, which is the point:",
+      "exitRoutes": "Stage 0 fails | Nobody reads and nothing ships. Learned for under $500, which is the cheapest and most valuable result available.\nHypothesis fails | The null result is published in full with raw data. The protocol itself survives and becomes the product.\nNo sponsor appears | Membership continues at a small scale. The experiment keeps running; the company does not scale.\nWorst case | The experiment produces a worse life than the job did. Publish it, stop, and say so plainly.",
+      "metricLabel": "Illustrative revenue at maturity"
+    },
+    "ledger": {
+      "eyebrow": "The Ledger",
+      "title": "Every dollar in. Every dollar out.",
+      "intro": "The single most differentiating thing here. \"Fund my life\" is unaccountable by nature — so this is receipted, categorised, and public from day one.",
+      "moneyIn": "Patron subscriptions | $5–15/month. The base of the model; funds the experiment, never a salary above the cap.\nUnderwriting | $250 to carry one named idea to completion. Credited in the log, receipted in the ledger.\nSponsored cohorts | Single sponsor per cohort, priced against the published research report.\nB2B programmes | Fixed programme fees. Sold under a plain descriptor, not the consumer brand.",
+      "moneyOut": "Living stipend (capped) | Capped and time-boxed by design. An experiment about sustainable output cannot run on the burnout it is meant to disprove.\nTools & services | Software, hosting, research instruments. Line-itemed, never lumped.\nPlatform costs | Domains, infrastructure, and contract development where needed.\nNothing else | No draws, no expenses without a category. If it is not on this list, it is not spent.",
+      "produced": "Projects shipped | The primary metric. Counted per 90 days and published whether the number is good or bad.\nIdeas killed | Logged with the reason at the moment of killing, because abandonment reasons are the most interesting data here.\nData drops | Raw metrics released monthly, downloadable by anyone, including the comparison group's numbers.\nNull results | Published in full. This is the commitment that makes the rest of it credible.",
+      "statIn": "$0 in",
+      "statOut": "$0 out",
+      "statProduced": "Day 0",
+      "statNote": "Starting balance. Publishing begins at zero, on purpose — the ledger is only worth anything if it is honest before there is anything in it."
+    },
+    "join": {
+      "eyebrow": "Take Part",
+      "title": "Watch it, back it, or run it yourself.",
+      "whyTitle": "What you are actually buying",
+      "whyBody": "Not equity. Not returns. You are buying a tool, a protocol, and a front-row seat at a genuinely falsifiable experiment. If it fails, you will be told — in detail, with the data.",
+      "benefits": "The weekly log — what was attempted, what shipped, what died, and why.\nThe monthly data drop — raw numbers, downloadable, comparison group included.\nA vote on which ideas get funded next.\nThe protocol, so you can run the same experiment on yourself.\nNo equity, no revenue share, no returns. Ever, on a public page.",
+      "closingLine": "Small is sufficient. Let's prove it in public.",
+      "fundingGoal": "Reader · Free",
+      "initialPhase": "Patron · $5/mo",
+      "toBreakEven": "Backer · $15/mo",
+      "earlyAccess": "Underwriter · $250",
+      "formTitle": "Join the list",
+      "formIntro": "Get the first data drop and the pre-registration document. Nothing is sold from this page, and your details are not stored by this preview.",
+      "emailLabel": "Email Address",
+      "amountLabel": "I am interested as (optional)",
+      "buttonLabel": "Join the list",
+      "formNote": "Preview only: nothing is submitted or stored here. Membership, underwriting, and programme fees only — no investment product, no equity, no revenue share, no returns are offered or implied.",
+      "goalLabel": "Tier 01 · Open",
+      "phaseLabel": "Tier 02 · Monthly",
+      "timelineLabel": "Tier 03 · Monthly",
+      "accessLabel": "Tier 04 · One-off"
+    }
+  },
+  "closing": {
+    "eyebrow": "That's the whole idea",
+    "title": "The experiment starts at zero, in public. Watch it either way.",
+    "highlight": "either way",
+    "emphasis": "",
+    "ctaLabel": "Join the list",
+    "requirements": "No equity · No returns · Results published regardless of outcome"
+  },
+  "footer": {
+    "note": "A public experiment in funded creative freedom.",
+    "editorLabel": "Site editor"
+  },
+  "modelsPage": {
+    "eyebrow": "The Platform",
+    "title": "Log. Signal. Track. Receipt.",
+    "highlight": "Receipt",
+    "intro": "The protocol needs exactly four things to work. The platform builds those four and nothing else until they are used weekly. Every extra feature is a reason not to publish.",
+    "modelName": "The Funded Freedom Programme",
+    "requirements": "An 8-week innovation sabbatical for 4–6 employees. Protected time, a structured idea pipeline, all outcomes logged, and an anonymised findings report at the end.",
+    "features": [
+      {
+        "title": "Log",
+        "description": "One daily entry: what was attempted, what shipped, what was killed, and how long it took. Public by default, private optional."
+      },
+      {
+        "title": "Signal",
+        "description": "Readers vote on which ideas proceed. Attention becomes a funding signal instead of a vanity metric."
+      },
+      {
+        "title": "Track",
+        "description": "Every idea carries to shipped or killed, with the reason logged at the moment of decision. No idea quietly disappears."
+      },
+      {
+        "title": "Ledger",
+        "description": "Money in, money out, and what it produced — categorised and public. The accountability layer the whole model rests on."
+      }
+    ]
+  },
+  "privacyPage": {
+    "eyebrow": "The Rules",
+    "title": "What this is not.",
+    "highlight": "not",
+    "intro": "This page exists because the original version of this project asked for something it should not have. It offered potential equity on a public page, which invites securities regulation and is unfair to the people reading it.",
+    "body": "The current model sells subscriptions, gifts, and programme fees. It does not offer equity, revenue share, or financial returns of any kind, and it will not. Any future equity conversation happens with a lawyer and never appears on a public page.\n\nThe experiment also commits to publishing null results. If the hypothesis fails, it is published in full with the raw data. The protocol survives either way, because the protocol is the product.",
+    "contactLabel": "Questions about the model",
+    "contactValue": "hello@thelazylifeexperiment.com"
+  }
+}

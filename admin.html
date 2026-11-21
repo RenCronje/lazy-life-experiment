@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en" style="color:#171714;background:#f3f2ed">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f3f2ed">
+  <meta name="description" content="Edit The Lazy Life Experiment website content and publish it to GitHub.">
+  <title>The Lazy Life Experiment site editor</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/admin.css">
+  <script src="/eyes.js" defer></script>
+  <script src="/admin.js" defer></script>
+</head>
+<body class="admin-body">
+  <header class="admin-header">
+    <a href="/" class="admin-back"><span aria-hidden="true">←</span> View site</a>
+    <div class="admin-wordmark"><span class="admin-mark">L</span> Lazy Life <span class="admin-wordmark-divider">/</span> Site editor</div>
+    <div class="connection-state" id="connection-state"><i></i><span>Checking publishing setup…</span></div>
+  </header>
+
+  <div class="hero-band" id="hero-band" data-eye-band></div>
+  <main class="admin-layout">
+    <aside class="editor-pane" aria-label="Website content editor">
+      <div class="editor-intro">
+        <span class="editor-kicker">CONTENT STUDIO</span>
+        <h1>Make it yours.</h1>
+        <p>Edit the copy, links, and colors. Your preview updates as you type.</p>
+      </div>
+      <div class="editor-actions">
+        <button class="action-button action-save" id="save-project" type="button"><span aria-hidden="true">↓</span> Save to project</button>
+        <button class="action-button action-publish" id="publish-github" type="button"><span aria-hidden="true">↗</span> Publish to GitHub</button>
+        <button class="text-action" id="export-json" type="button">Export JSON</button>
+        <button class="text-action" id="reset-content" type="button">Reset draft</button>
+      </div>
+      <div class="editor-notice" id="editor-notice" role="status" aria-live="polite">Changes are saved as a private browser draft automatically.</div>
+      <details class="publish-settings" id="publish-settings">
+        <summary><span class="summary-icon">⚙</span> Publishing &amp; password</summary>
+        <div class="settings-body">
+          <p id="publish-help">For Vercel publishing, set the server environment variables listed in the README. Your GitHub token stays on the server.</p>
+          <label for="editor-password">Editor password <span>(Vercel only)</span></label>
+          <div class="password-row"><input id="editor-password" type="password" autocomplete="current-password" placeholder="Enter the password set in Vercel"><button id="remember-password" type="button">Use for this tab</button></div>
+          <small>The password is sent only to this site’s publishing endpoint over HTTPS. It is not included in the content file.</small>
+        </div>
+      </details>
+      <div class="field-sections" id="field-sections">
+        <div class="loading-state"><span class="loading-dot"></span> Loading your content…</div>
+      </div>
+      <div class="editor-bottom-note"><span>✦</span> The page’s final colors and words are yours to choose.</div>
+    </aside>
+
+    <section class="preview-pane" aria-label="Live website preview">
+      <div class="preview-toolbar">
+        <div class="preview-label"><span class="live-dot"></span><strong>Live preview</strong><span class="preview-route">/</span></div>
+        <div class="preview-tools"><button type="button" id="refresh-preview" aria-label="Refresh preview" title="Refresh preview">↻</button><a href="/" target="_blank" rel="noopener">Open site <span aria-hidden="true">↗</span></a></div>
+      </div>
+      <iframe id="site-preview" title="The Lazy Life Experiment website live preview" src="/?preview=1"></iframe>
+      <div class="preview-footnote"><span>Changes in the editor appear here instantly.</span><span id="deploy-hint">Publishing commits content to GitHub; Vercel deploys the commit.</span></div>
+    </section>
+  </main>
+  <div class="toast" id="editor-toast" role="status" aria-live="polite"></div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.DS_Store
+.vercel/
+.cache/
+.npm/
+qa/
+qa-new/
+uploads/
+pixie-site-replica.zip
+.sudo_as_admin_successful

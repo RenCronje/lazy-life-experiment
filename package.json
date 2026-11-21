@@ -1,0 +1,13 @@
+{
+  "name": "lazy-life-experiment-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Editable Lazy Life Experiment site with a scroll-driven story and GitHub-to-Vercel publishing endpoint.",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
